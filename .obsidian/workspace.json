@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XML & Layout files.md",
+                "file": "Fundamentos/Business domain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "XML & Layout files"
+              "title": "Business domain"
             }
           },
           {
@@ -235,7 +235,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "XML & Layout files.md",
+                "file": "Fundamentos/Business domain.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -263,7 +263,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of XML & Layout files"
+              "title": "Graph of Business domain"
             }
           },
           {
@@ -351,10 +351,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1bcde40a92ba819",
+  "active": "c7fea1d1d04fade8",
   "lastOpenFiles": [
-    "Laravel/Laravel migration.md",
+    "Practicas de desarrollo",
+    "Fundamentos",
+    "Practicas de desarrollo/Command-line interface (CLI).md",
+    "Practicas de desarrollo/Code Refactoring.md",
+    "htaccess.md",
+    "Preprocessor Scripting Language.md",
+    "Practicas de desarrollo/Dist folder.md",
+    "Databases/Introduction to MySQL.md",
+    "Databases/Relational Databases - freeCodeCamp",
+    "Fundamentos/Business logic.md",
+    "Practicas de desarrollo/README.md",
     "XML & Layout files.md",
+    "Laravel/Laravel migration.md",
     "Android App Developmentn",
     "Mobile note.md",
     "Laravel/Laravel MVC.md",
@@ -371,23 +382,12 @@
     "JavaScript/DOM Scripting.md",
     "PHP & MySQL - Tarea de alojamientos.md",
     "Redirecting URLs to index.php - htaccess.md",
-    "htaccess.md",
-    "Databases/Introduction to MySQL.md",
     "SASS.md",
-    "alojamientos_app/Creacion de la tabla usuarios.md",
-    "Command-line interface (CLI).md",
     "alojamientos_app",
-    "Version Control/Setting up version control with Git & GitHub.md",
     "Version Control",
-    "Databases/Joins.md",
-    "Databases/Common columns.md",
-    "Databases/Selection sorting algorithm.md",
-    "Databases/Data Manipulation Language.md",
     "Databases/desktop.ini",
     "desktop.ini",
     "Databases",
-    "PHP",
-    "Object-Oriented Programming/Design patterns",
-    "Object-Oriented Programming"
+    "PHP"
   ]
 }
