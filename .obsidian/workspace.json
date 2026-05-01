@@ -353,18 +353,19 @@
   },
   "active": "c7fea1d1d04fade8",
   "lastOpenFiles": [
+    "Web",
     "Practicas de desarrollo",
     "Fundamentos",
     "Practicas de desarrollo/Command-line interface (CLI).md",
     "Practicas de desarrollo/Code Refactoring.md",
-    "htaccess.md",
+    "Web/htaccess.md",
     "Preprocessor Scripting Language.md",
     "Practicas de desarrollo/Dist folder.md",
     "Databases/Introduction to MySQL.md",
     "Databases/Relational Databases - freeCodeCamp",
     "Fundamentos/Business logic.md",
     "Practicas de desarrollo/README.md",
-    "XML & Layout files.md",
+    "Web/XML & Layout files.md",
     "Laravel/Laravel migration.md",
     "Android App Developmentn",
     "Mobile note.md",
@@ -381,13 +382,12 @@
     "JavaScript/JavaScript Essentials.md",
     "JavaScript/DOM Scripting.md",
     "PHP & MySQL - Tarea de alojamientos.md",
-    "Redirecting URLs to index.php - htaccess.md",
+    "Web/Redirecting URLs to index.php - htaccess.md",
     "SASS.md",
     "alojamientos_app",
     "Version Control",
     "Databases/desktop.ini",
     "desktop.ini",
-    "Databases",
-    "PHP"
+    "Databases"
   ]
 }
