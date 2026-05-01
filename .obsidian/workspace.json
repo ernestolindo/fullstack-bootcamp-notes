@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentos/Business domain.md",
+                "file": "Databases/Relational Databases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business domain"
+              "title": "Relational Databases"
             }
           },
           {
@@ -235,7 +235,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Fundamentos/Business domain.md",
+                "file": "Databases/Relational Databases.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -263,7 +263,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Business domain"
+              "title": "Graph of Relational Databases"
             }
           },
           {
@@ -353,13 +353,15 @@
   },
   "active": "c7fea1d1d04fade8",
   "lastOpenFiles": [
+    "Fundamentos/Business domain.md",
+    "Databases/Relational Databases.md",
     "Web",
     "Practicas de desarrollo",
     "Fundamentos",
     "Practicas de desarrollo/Command-line interface (CLI).md",
     "Practicas de desarrollo/Code Refactoring.md",
     "Web/htaccess.md",
-    "Preprocessor Scripting Language.md",
+    "PHP/Preprocessor Scripting Language.md",
     "Practicas de desarrollo/Dist folder.md",
     "Databases/Introduction to MySQL.md",
     "Databases/Relational Databases - freeCodeCamp",
@@ -381,13 +383,11 @@
     "Object-Oriented Programming/Design patterns/Decorator Pattern.md",
     "JavaScript/JavaScript Essentials.md",
     "JavaScript/DOM Scripting.md",
-    "PHP & MySQL - Tarea de alojamientos.md",
+    "PHP/PHP & MySQL - Tarea de alojamientos.md",
     "Web/Redirecting URLs to index.php - htaccess.md",
-    "SASS.md",
     "alojamientos_app",
     "Version Control",
     "Databases/desktop.ini",
-    "desktop.ini",
-    "Databases"
+    "desktop.ini"
   ]
 }
